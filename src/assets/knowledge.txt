@@ -1,0 +1,108 @@
+Programming Languages
+  General
+    k6
+    awesome-compose
+  Java
+  Python
+Data Visualization
+  Variable Identification
+    Predictor
+    Target
+  Univariate Analysis
+    Continuous Features
+      Mean
+      Median
+      Mode
+      Min
+      Max
+      Range
+      Quartile
+      IQR
+      Variance
+      Standard Deviation
+      Skewness
+      Histogram
+      Box Plot
+    Categorical Features
+      Frequency
+      Histogram
+  Bi-variate Analysis
+    Scatter Plot
+    Correlation Plot - Heatmap
+    Two-way Table
+    Chi-Square Test
+    Z-Test / T-Test
+    ANOVA
+  Tools
+    Tableau
+    SAS
+    Excel
+    R
+      ggplot2
+    Python
+      matplotlib
+      plotly
+      seaborn
+    JS
+      Chart.js
+      Highcharts
+      D3.js
+      Three.js
+    Maps
+      Google Maps API
+      Here Maps API
+      OpenStreetMap
+      Mapbox
+      CartoDB
+      Leaflet.js
+Big Data
+  Hadoop
+    Zookeeper
+    Hive
+    Processing
+  Data Streaming
+    Spark
+    Flink
+    Storm
+    Kafka
+  Data Flow
+    Airflow
+Data Storages
+  SQL databases
+    SQLite
+    MySQL
+    PostgreSQL
+  NoSQL databases
+    Redis
+    Cassandra
+    MongoDb
+    HBase
+  Time Series databases
+    Influx DB
+    Graphite
+    OpenTSDB
+    Kairos DB
+    Prometheus
+  Cloud databases
+    Google BigTable
+    Amazon RDS
+    Amazon Dynamo DB
+  Cloud Storages
+    Amazon S3
+    Amazon Glacier
+Data Engineering
+  Data ingestion
+  Data cleaning
+  Data scraping
+    Scrapy
+    Selenium
+    BeautifulSoup
+  Search Engines
+    Elastic Search
+    Solr
+  ML Models
+    Scikit-Learning
+    Tensorflow
+    PyTorch
+    MXNet
+    Keras

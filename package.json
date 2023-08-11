@@ -1,0 +1,40 @@
+{
+    "name": "knowledge-map",
+    "version": "1.0.0",
+    "description": "a webpage to show your knowledge map",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack",
+        "start": "webpack serve"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.22.0",
+        "@babel/plugin-proposal-class-properties": "^7.18.6",
+        "@babel/preset-env": "^7.22.0",
+        "babel-loader": "^9.1.0",
+        "copy-webpack-plugin": "^11.0.0",
+        "css-loader": "^6.8.0",
+        "csv-loader": "^3.0.5",
+        "file-loader": "^6.2.0",
+        "html-webpack-plugin": "^5.5.0",
+        "node-sass": "^9.0.0",
+        "sass-loader": "^13.3.0",
+        "style-loader": "^3.3.1",
+        "webpack": "^5.88.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^4.15.1",
+        "xml-loader": "^1.2.1"
+    },
+    "dependencies": {
+        "@simonwep/pickr": "^1.8.1",
+        "bulma": "^0.9.0",
+        "clean-webpack-plugin": "^4.0.0",
+        "d3": "^3.8.1",
+        "d3-flextree": "^2.1.1",
+        "markmap": "^0.6.1"
+    }
+}
